@@ -5,7 +5,9 @@ Need Tydom Gateway (I've used a Tydom 1.0)<br />
 Code Reversed Engineered with help of Eli (creator of JeeDore plugin for Jeedom)<br />
 
 *Modules required :*
-    
+
+    pip install -r requirements.txt
+    or
     pip install websockets requests
 
 Following commands are implemented :<br />
